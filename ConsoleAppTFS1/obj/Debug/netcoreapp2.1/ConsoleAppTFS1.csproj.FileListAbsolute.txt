@@ -1,0 +1,11 @@
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\bin\Debug\netcoreapp2.1\ConsoleAppTFS1.deps.json
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\bin\Debug\netcoreapp2.1\ConsoleAppTFS1.runtimeconfig.json
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\bin\Debug\netcoreapp2.1\ConsoleAppTFS1.runtimeconfig.dev.json
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\bin\Debug\netcoreapp2.1\ConsoleAppTFS1.dll
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\bin\Debug\netcoreapp2.1\ConsoleAppTFS1.pdb
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\obj\Debug\netcoreapp2.1\ConsoleAppTFS1.csprojAssemblyReference.cache
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\obj\Debug\netcoreapp2.1\ConsoleAppTFS1.csproj.CoreCompileInputs.cache
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\obj\Debug\netcoreapp2.1\ConsoleAppTFS1.AssemblyInfoInputs.cache
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\obj\Debug\netcoreapp2.1\ConsoleAppTFS1.AssemblyInfo.cs
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\obj\Debug\netcoreapp2.1\ConsoleAppTFS1.dll
+D:\temp\AspNetCore-docker\ConsoleAppTFS1\ConsoleAppTFS1\obj\Debug\netcoreapp2.1\ConsoleAppTFS1.pdb
